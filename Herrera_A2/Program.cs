@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Globalization;
-
+//Alejandro Herrera
 namespace Herrera_A2;
 class Program
 {
